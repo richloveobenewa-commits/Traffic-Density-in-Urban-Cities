@@ -1,4 +1,7 @@
 # Traffic-Density-in-Urban-Cities
+
+<img width="317" height="159" alt="Image" src="https://github.com/user-attachments/assets/14a23e1e-2ad6-4aae-8a68-0291749e1c88" />
+
 This dataset provides a detailed, comprehensive overview of traffic dynamics within a futuristic urban environment, containing over 1000 unique records. The data spans six distinct, simulated cities, capturing various factors influencing traffic conditions. It is designed for researchers and analysts working on intelligent transportation systems (ITS), traffic forecasting, and urban planning. 
 Dataset Structure & Features:
 Each record represents a unique snapshot in time, offering a rich set of multi-dimensional features, including:
