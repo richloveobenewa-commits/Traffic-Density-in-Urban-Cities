@@ -5,6 +5,7 @@
 This study examines traffic density in urban cities, focusing on how different factors influence both traffic flow and energy consumption.
 
 Objective
+
 The main goal is to analyze how:
 Weather
 Economic conditions
@@ -12,17 +13,20 @@ Vehicle types
 affect traffic patterns.
 
 Methodology
+
 Data sourced from Kaggle
 Cleaned and processed using Power Query
 Analysis performed with pivot tables, charts, and descriptive statistics
 Results presented through an Excel dashboard
 
 Key Findings
+
 Weather is the most significant factor affecting traffic flow
 Vehicle type is the second most influential
 Economic conditions have the least impact
 
 Conclusion
+
 All three factors play important roles, but their influence varies. Together, they shape traffic flow and energy consumption patterns in urban areas.
 
 Recommendations
