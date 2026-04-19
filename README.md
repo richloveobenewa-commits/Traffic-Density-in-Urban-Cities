@@ -3,8 +3,7 @@
 <img width="317" height="159" alt="Image" src="https://github.com/user-attachments/assets/14a23e1e-2ad6-4aae-8a68-0291749e1c88" />
 
 This study examines traffic density in urban cities, focusing on how different factors influence both traffic flow and energy consumption.
-
-The main goal is to analyze how:
+The main goal is to analyze how
 Weather
 Economic conditions
 Vehicle types
